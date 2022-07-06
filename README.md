@@ -9,7 +9,5 @@ Inicialmente, o programa pergunta ao usuário qual o link do artigo que deseja a
 O programa apresenta as seguintes funcionalidades:
 
     a) Listar os tópicos do índice do artigo;
-
     b) Listar todos os nomes de arquivos de imagens presentes no artigo;
-
     c) Listar todos os links para outros artigos da Wikipédia que são citados no conteúdo do artigo.
